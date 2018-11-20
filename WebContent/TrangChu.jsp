@@ -19,7 +19,7 @@
     <dl id="browse">
       <dt>Thể loại</dt>
       <dd class="first"><a href="">Công nghệ thông tin</a></dd>
-      <dd><a href="">Công nghệ KT nhiệt</a></dd>
+      <dd><a href="">Công nghệ KT</a></dd>
       <dd><a href="">Công nghệ KT công trình xây dựng</a></dd>
       <dd><a href="">Công nghệ chế tạo máy</a></dd>
       <dd><a href="">Kinh tế</a></dd>
